@@ -71,9 +71,8 @@ The website contains the following pages:
 ---
 
 ## 🎥 Project Demo Video
-(Replace with your actual link after uploading)
 
-👉 [Add YouTube/Google Drive video link here]
+https://drive.google.com/file/d/1skiN_b-EqusGGQigZCy1YT8xZEcwFE3A/view?usp=sharing
 
 ---
 
